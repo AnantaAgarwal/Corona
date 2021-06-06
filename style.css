@@ -1,0 +1,121 @@
+#section1{
+    background:url('Coronavirus-1.jpg');
+    height:100vh;
+    margin:0px;
+}
+#section1 ul{
+   list-style:none;
+   display:flex;
+   justify-content:center;
+   color:white;
+   text-transform:uppercase;
+   font-weight:bold;
+   padding:5px;
+   letter-spacing:1px;
+   margin-left:auto;
+   margin-right:auto;
+  
+
+}
+#section1 ul li{
+    margin:7px;
+
+}
+#section1 ul li a{
+text-decoration:none;
+color:white;
+}
+*{
+    margin:0%;
+    padding:0px;
+}
+#section1 h1{
+    font-size:250%;
+    color:white;
+    text-align:center;
+    transform:translateY(50vh);
+
+}
+#section1 ul li:hover{
+    border-bottom:3px solid white;
+}
+#content{
+	color: white;
+	padding: 100px 150px 150px 100px;
+	position: center;
+	background: linear-gradient(to bottom, #16222a, #4e4376);}
+#content h1
+	{
+		font-size: 325%;
+		text-align: center;
+	}
+	#content p
+	{
+		font-weight: 400%;
+		font-family: serif;
+		font-size: 150%;
+		text-align: center;
+		padding-left: 20%;
+		padding-right: 20%;
+	}
+#covid19{
+    color: white;
+	padding: 100px 150px 150px 100px;
+	position: center;
+    background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);}
+	#covid19 h1
+	{
+		font-size: 325%;
+		text-align: center;
+	}
+	#covid19 p
+	{
+		font-weight: 400%;
+		font-family: serif;
+		font-size: 150%;
+		text-align: center;
+		padding-left: 20%;
+		padding-right: 20%;
+	}
+#content{
+        color: white;
+        padding: 100px 150px 150px 100px;
+        position: center;
+        background: linear-gradient(to bottom, #16222a, #4e4376);}
+    #content h1
+        {
+            font-size: 325%;
+            text-align: center;
+        }
+        #content p
+        {
+            font-weight: 400%;
+            font-family: serif;
+            font-size: 150%;
+            text-align: center;
+            padding-left: 20%;
+            padding-right: 20%;
+        }
+    #social{
+        color: white;
+        padding: 100px 150px 150px 100px;
+        position: center;
+        background:url("coronavirus-2.jpeg");
+
+    }
+     #social h1
+        {
+            font-size: 325%;
+            text-align: center;
+        }
+        #social p
+        {
+            font-weight: 400%;
+            font-family: serif;
+            font-size: 150%;
+            text-align: center;
+            padding-left: 20%;
+            padding-right: 20%;
+        }
+    
+    
